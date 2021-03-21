@@ -1,5 +1,3 @@
-// Instant Cricket Game
-// Author ~ Shamura Ahmad 
 
 import java.util.*;
 public class Main{
